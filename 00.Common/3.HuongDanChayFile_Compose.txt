@@ -1,0 +1,2 @@
+Chạy lệnh: 
+Chuột phải vào thư mục 00.Common => Chọn Open Terminal => gõ lệnh docker compose up -d rồi ấn enter

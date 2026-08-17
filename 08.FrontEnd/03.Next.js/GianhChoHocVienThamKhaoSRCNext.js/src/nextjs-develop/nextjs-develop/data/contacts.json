@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Emmitt Beer",
+    "email": "your.email+fakedata28998@gmail.com",
+    "subject": "Impedit modi vel corrupti.",
+    "message": "Possimus animi neque.",
+    "createdAt": "2026-01-07T08:01:50.471Z"
+  },
+  {
+    "id": "2",
+    "name": "Marlon Steuber",
+    "email": "your.email+fakedata63147@gmail.com",
+    "subject": "Illo sed consectetur rerum autem ut aut itaque ad laboriosam.",
+    "message": "Odio saepe ad ea rerum illum dolorem.",
+    "createdAt": "2026-01-07T08:02:02.771Z"
+  },
+  {
+    "id": "3",
+    "name": "Vivien Hettinger",
+    "email": "your.email+fakedata49391@gmail.com",
+    "subject": "Occaecati quisquam aliquam ratione similique officia.",
+    "message": "Quasi voluptas ullam quibusdam voluptate.",
+    "createdAt": "2026-01-07T10:14:30.104Z"
+  },
+  {
+    "id": "4",
+    "name": "Margie Gusikowski",
+    "email": "your.email+fakedata62828@gmail.com",
+    "subject": "Exercitationem praesentium sit magni non.",
+    "message": "Natus ex non ullam perferendis ad.",
+    "createdAt": "2026-01-08T02:11:57.307Z"
+  },
+  {
+    "id": "5",
+    "name": "Jeremie Borer",
+    "email": "your.email+fakedata79068@gmail.com",
+    "subject": "Ex debitis sapiente libero modi facere maiores.",
+    "message": "Sed officia at molestiae eius.",
+    "createdAt": "2026-01-08T02:12:05.938Z"
+  }
+]

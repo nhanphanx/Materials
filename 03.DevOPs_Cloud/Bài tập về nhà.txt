@@ -1,0 +1,7 @@
+Bài tập về nhà:
+
+Tạo 1 file Dockerfile gồm có cài đặt Webserver, Java (hello-world), MySQL.
+
+Yêu cầu bắt buộc: Comment lại nội dung cho từng lệch trong file Dockerfile để đảm bảo khả năng hiểu rõ từng câu lệnh.
+
+Hạn là hết ngày chủ nhật (26/07/2026)
